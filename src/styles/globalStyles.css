@@ -1,20 +1,33 @@
 :root {
-    --brand-1: #4263EB;
-    --brand-2: #364FC7;
-    --grey0: #0A0C0D;
-    --grey1: #212529;
-    --grey2: #495057;
-    --grey3: #868E96;
-    --grey4: #DEE2E6;
-    --grey5: #F8F9FA;
-    --grey-opacity-1: rgba(33, 37, 41, 0.5);
-    --whiteFixed: #FFFFFF;
-    --like: #D7443E;
-    --font-family: 'inter';
-    --title1: font-weight 700px, ;
-    --title2: 
-    --text1: ;
-    --text2: ;
-    --text3: ;
-}
+    --color-brand-1: #4263EB;
+    --color-brand-2: #464FC7;
 
+    --color-grey0: #0A0C0D;
+    --color-grey1: #212529;
+    --color-grey2: #495057;
+    --color-grey3: #868E96;
+    --color-grey4: #DEE2E6;
+    --color-grey5: #F8F9FA;
+    --color-grey-opacity-1: rgba(33, 37, 41, 0.5);
+    --color-whiteFixed: #FFFFFF;
+
+    --color-like: #D7443E;
+
+    --font-title-1: 1.75rem;
+    --font-title-2: 1.25rem;
+    --font-text-1: 1rem;
+    --font-text-2: 0.875rem;
+    --font-text-3: 0.75rem;
+
+    --font-weight-title-1: 700;
+    --font-weight-title-2: 600;
+    --font-weight-text-1: 400;
+    --font-weight-text-2: 400;
+    --font-weight-text-3: 400;
+
+    --line-height-title-1: 2.5rem;
+    --line-height-title-2: 1.5rem;
+    --line-height-text-1: 1.75rem;
+    --line-height-text-2: 1rem;
+    --line-height-text-3: 1rem;    
+}

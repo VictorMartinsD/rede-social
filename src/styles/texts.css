@@ -1,0 +1,35 @@
+body {
+    font-family: 'Inter', sans-serif;
+    max-width: 100vw;
+}
+
+.font-title1 {
+    font-size: var(--font-title-1);
+    font-weight: var(--font-weight-title-1);
+    line-height: var(--line-height-title-1);
+}
+
+.font-title2 {
+    font-size: var(--font-title-2);
+    font-weight: var(--font-weight-title-2);
+    line-height: var(--line-height-title-2);
+}
+
+.font-text1 {
+    font-size: var(--font-text-1);
+    font-weight: var(--font-weight-text-1);
+    line-height: var(--line-height-text-1);
+}
+
+.font-text2 {
+    font-size: var(--font-text-2);
+    font-weight: var(--font-weight-text-2);
+    line-height: var(--line-height-text-2);
+    color: var(--color-grey2);
+}
+
+.font-text3 {
+    font-size: var(--font-text-3);
+    font-weight: var(--font-weight-text-3);
+    line-height: var(--line-height-text-3);
+}
